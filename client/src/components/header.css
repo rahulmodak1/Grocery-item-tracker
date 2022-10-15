@@ -1,0 +1,14 @@
+.header {
+    background-color: #394051;
+    color: white;
+    min-height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header>p {
+    font-size: 1.8rem;
+    padding: 0.5rem;
+    letter-spacing: 1px;
+}
